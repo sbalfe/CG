@@ -1,0 +1,3 @@
+/home/shriller44/university/University/AdvancedComputerGraphics-CM30075/coursework/labs/labsMain/cmake-build-debug/CMakeFiles/lab3.dir
+/home/shriller44/university/University/AdvancedComputerGraphics-CM30075/coursework/labs/labsMain/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shriller44/university/University/AdvancedComputerGraphics-CM30075/coursework/labs/labsMain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
